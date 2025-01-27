@@ -6,3 +6,5 @@
 sum = a + c
 
 sub = a - b
+
+div = a % b
